@@ -1,4 +1,4 @@
-package B20User;
+package rajmi;
 
 public class b20_user {
 }
